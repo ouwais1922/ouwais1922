@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working in neoCedrus: https://neocedrus.com/
+- 🔭 I’m currently working in neoCedrus as a software developer: https://neocedrus.com/
 - 🎓 I’m studying software engineering at Al Akhawayn University
 - 📫 How to reach me: https://www.linkedin.com/in/ouwais-zlaigi-b722621b0/
 - ⚡ Fun fact: Always play dumb, always!
