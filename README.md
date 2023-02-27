@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - 🎓 I’m studying software engineering at Al Akhawayn University
 - 📫 How to reach me out: https://www.linkedin.com/in/ouwais-zlaigi-b722621b0/
 - ⚡ Fun fact: Always play dumb, always!
-
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ouwais1922&show_icons=true&theme=radical"/>
 
 
