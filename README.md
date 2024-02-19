@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working in EVEAD group as a software engineering
+- 🔭 I’m currently working in BCG  as a software engineering
 - 🎓 I’m studying software engineering at Al Akhawayn University
 - 📫 How to reach me out: https://www.linkedin.com/in/ouwais-zlaigi-b722621b0/
 - ⚡ Fun fact: Always play dumb, always!
